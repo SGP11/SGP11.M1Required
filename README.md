@@ -1,6 +1,6 @@
-<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/76012533-244b-47e2-99dd-8fd21661cb9e" />
+<img width="1500" height="500" alt="required_modlist_banner" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
 
-# SGP11.M1Required — Essential Outer Wilds Modlist
+# SPG11.M1Required — Essentials Modlist
 
 Modlist containing the core, stability‑focused mods commonly required for Outer Wilds modding.  
 
@@ -16,26 +16,3 @@ Modlist containing the core, stability‑focused mods commonly required for Oute
 - [New Horizons](https://outerwildsmods.com/mods/newhorizons/) — by xen  
 - [RunInBackground](https://outerwildsmods.com/mods/RunInBackground/) - by lStewieAl  
 - [WoahWatchThoseFrames](https://outerwildsmods.com/mods/WoahWatchThoseFrames/) — by Switch  
-
----
-
-## About
-
-This modlist provides the baseline tools needed for most Outer Wilds modding environments.  
-It ensures compatibility, stability, and functionality for mods that rely on shared frameworks or utilities.
-
----
-
-## Installation
-
-Install using the **Outer Wilds Mod Manager**:  
-https://outerwildsmods.com
-
-Enable this modlist first so dependent mods load correctly.
-
----
-
-## License
-
-MIT License.  
-See the LICENSE file for details.

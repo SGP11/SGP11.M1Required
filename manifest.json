@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "ModPackTemplate.dll",
   "author": "SGP11",
-  "name": "Essential Modlist 1",
+  "name": "Modlist 1 Essential",
   "uniqueName": "SGP11.M1Essential",
   "version": "1.0.0",
   "owmlVersion": "2.15.1",
