@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="required_modlist_banner" src="https://github.com/user-attachments/assets/0b265289-2050-4d1d-86e0-3149b44e3996" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/65888484-aba6-444f-9fe5-26e705dc0274" />
 
 # SPG11.M1Required — Essentials Modlist
 
